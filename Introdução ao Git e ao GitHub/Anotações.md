@@ -46,12 +46,10 @@ Comandos utilizados para preparar versões do repositório e commitar posteriorm
 <dd>Commita os arquivos adicionados como uma nova versão do repositório</dd>
 </dl>
 
-## 📦 Preparação e Commit
-Comandos utilizados para preparar versões do repositório e commitar posteriormente
-
 ## 🔎 Inspeção e Comparação
 Comandos utilizados para examinar logs, diffs e objetos.
 
+<dl>
 <dt><strong>git log</strong></dt>
 <dd>Lista histórico de commits da branch atual</dd>
 <dt><strong>git log branchB..branchA</strong></dt>
@@ -65,6 +63,7 @@ Comandos utilizados para examinar logs, diffs e objetos.
 ## 🚀 Compartilhando e Atualizando
 Comandos utilizados para atualizar ou puxar updates de um repositório.
 
+<dl>
 <dt><strong>git remote add [alias] [url]</strong></dt>
 <dd>Adiciona repositório remoto</dd>
 <dt><strong>git fetch [alias]</strong></dt>
@@ -82,6 +81,7 @@ Comandos utilizados para atualizar ou puxar updates de um repositório.
 ## 🌳 Criando Branches
 Comandos utilizados para criar "branches" isolando o trabalho e posteriormente mesclando alterações.
 
+<dl>
 <dt><strong>git branch</strong></dt>
 <dd>Lista branches existentes, a branch atual será apresenta com um * ao lado do nome</dd>
 <dt><strong>git branch [nome]</strong></dt>
